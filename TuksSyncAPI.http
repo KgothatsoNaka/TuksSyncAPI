@@ -1,0 +1,6 @@
+@TuksSyncAPI_HostAddress = http://localhost:5267
+
+GET {{TuksSyncAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
